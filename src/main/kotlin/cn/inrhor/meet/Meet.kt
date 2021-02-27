@@ -5,7 +5,7 @@ class Meet {
         val i = Person("Timid boy")
 
         Log().depiction("This day i met you")
-        i.emotion = Emotion.HAPPY
+        i.emotion = Emotion.SMILE
 
         val you = Person("Beautiful girl")
 
